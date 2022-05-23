@@ -167,7 +167,7 @@
   </p>
   
   <h3 align="left">Connect with me:</h3>
-  <a target="_blank"href="https://api.whatsapp.com/send?phone=593994607544">
+  <a target="_blank" href="https://api.whatsapp.com/send?phone=593994607544">
         <img
           src="https://github.com/lorenaggs/image-skills/blob/main/whatsapp.svg"
           alt="Icon Whatsapp"
