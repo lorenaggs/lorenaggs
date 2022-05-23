@@ -1,11 +1,11 @@
 <h1> 👋 Hi, I’m Lorena </h1>
 <h2 align="center">A passionate frontend developer from Ecuador</h2>
-<ul>
-<li>👀 I’m interested in ... </li>
-<li>🌱 I’m currently learning HTML, CSS AND JS </li>
-<li>💞️ I’m looking to collaborate on ... </li>
-<li>📫 How to reach me <a href="https://www.lorenaguartazaca.com" target="_blank" rel="noreferrer"> lorenaguartazaca.com </a> </li>
-</ul>
+
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning HTML, CSS AND JS 
+- 💞️ I’m looking to collaborate on ... 
+- 📫 How to reach me <a href="https://www.lorenaguartazaca.com" target="_blank" rel="noreferrer"> lorenaguartazaca.com </a> </li>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
