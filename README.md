@@ -179,8 +179,8 @@
         <img
           src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
           alt="Icon Linkedin"
-          width="60"
-          height="60" 
+          width="50"
+          height="50" 
         />
       </a>
   
