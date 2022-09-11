@@ -175,4 +175,12 @@
           height="60" 
         />
       </a>
+      <a target="_blank" href="https://www.linkedin.com/in/lorenaggs/">
+        <img
+          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+          alt="Icon Linkedin"
+          width="60"
+          height="60" 
+        />
+      </a>
   
